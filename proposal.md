@@ -12,18 +12,14 @@ I might have a really hard time writing code to do what I want. Since I haven't 
 
 ## Research questions (or hypotheses): These describe what you hope to discover or determine in the course of your research project.
 
-1.
-Q: What is the impact of days in a week on the number of Burglaries?<br>
-H: Burglary happens more on weekdays than on weekends (explanation: people are more likely to stay home on the weekend which makes burglary hard.).<br>
-2.
-Q: How has COVID impact on numbers of Burglary?<br>
-H: Burglary decrease during COVID (explanation: people are more likely to be at home.).<br>
-3.
-Q: How has BLM incidence impact on numbers of Burglary?<br>
-H: Burglary increases a little bit during BLM incidence (explanation: heard a lot of smashing shops on the news.).<br>
-4.
-Q: How does the crime rate around UW compare to the rest of the Seattle Area?<br>
-H: The area around UW has less crime (I hope).<br>
+1. Q: What is the impact of days in a week on the number of Burglaries?
+   H: Burglary happens more on weekdays than on weekends (explanation: people are more likely to stay home on the weekend which makes burglary hard.).
+2. Q: How has COVID impact on numbers of Burglary?
+   H: Burglary decrease during COVID (explanation: people are more likely to be at home.).
+3. Q: How has BLM incidence impact on numbers of Burglary?
+   H: Burglary increases a little bit during BLM incidence (explanation: heard a lot of smashing shops on the news.).
+4. Q: How does the crime rate around UW compare to the rest of the Seattle Area?
+   H: The area around UW has less crime (I hope).
 
 ## Background and/or Related Work: No matter what you choose to investigate, it’s almost certain that someone has investigated it (or a related phenomenon) before. Scientists always review previous work when beginning a new research study.
 
@@ -34,10 +30,6 @@ The Wikipedia page of Impact of the COVID-19 pandemic on crime stated that some 
 
 ## Methodology: Describe how you plan to investigate this phenomenon.
 
-1.
-Isolated the burglary data and divide them into two group, weekdays and weekend. Get the number of data in each group, devide the weekdays group by 5 and weekend by 2 to get the mean number per day. Plot them in a bar graph and calculate the difference persentage.<br>
-2.
-Isolated the burglary data from 2019 to 2020. Graph line graph for the year 2019 and another for 2020. Compare the two graphs to see if there is a big difference on the number of burglary.<br>
-3.
-Isolated the burglary data in 2020 from May to July. See if there is an unusual trend around this time.<br>
-
+1. Isolated the burglary data and divide them into two group, weekdays and weekend. Get the number of data in each group, devide the weekdays group by 5 and weekend by 2 to get the mean number per day. Plot them in a bar graph and calculate the difference persentage.
+2. Isolated the burglary data from 2019 to 2020. Graph line graph for the year 2019 and another for 2020. Compare the two graphs to see if there is a big difference on the number of burglary.
+3. Isolated the burglary data in 2020 from May to July. See if there is an unusual trend around this time.
